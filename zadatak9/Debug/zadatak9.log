@@ -1,0 +1,4 @@
+﻿  zad9.c
+c:\users\bruna\desktop\faks\strukture podataka\zadatak9\zadatak9\zad9.c(31): warning C4047: 'function': 'poz' differs in levels of indirection from 'poz *'
+c:\users\bruna\desktop\faks\strukture podataka\zadatak9\zadatak9\zad9.c(31): warning C4024: 'IspisInOrder': different types for formal and actual parameter 1
+  zadatak9.vcxproj -> C:\Users\Bruna\Desktop\Faks\strukture podataka\zadatak9\Debug\zadatak9.exe
